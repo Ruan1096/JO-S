@@ -1,12 +1,18 @@
 🍔 Jo's Burger | Landing Page Imersiva (New York Style)
 Este repositório apresenta o código-fonte de uma Landing Page de alta performance e apelo visual, desenvolvida com foco em Pixel Perfection para replicar rigorosamente a identidade visual de uma hamburgueria temática urbana no estilo neorsequino.
 
+
 O projeto foi construído do zero priorizando a fidelidade de layout, refinamento tipográfico, posicionamento absoluto de elementos e uma experiência de usuário (UX) fluida e interativa.
 
+
 🎯 A Proposta & A Concepção do Projeto
+
+
 A ideia central por trás do desenvolvimento foi transformar um layout estático em uma interface web funcional e elegante, onde cada elemento gráfico estivesse milimetricamente alinhado à proposta de design original.
 
+
 A concepção seguiu três pilares fundamentais:
+
 
 Fidelidade Visual Absoluta: Respeito rigoroso a proporções, respiros, pesos de fontes e hierarquia visual exibida no protótipo de referência.
 
@@ -15,6 +21,7 @@ Arquitetura de Posicionamento Estável: Em vez de fluxos de documentos convencio
 Interatividade Imersiva: Adição de microinterações em JavaScript que respondem dinamicamente aos comandos do usuário, simulando focos de iluminação realistas ("luzes de destaque") nos elementos de navegação e conversão.
 
 🛠️ Detalhamento Técnico & Código
+
 1. HTML5 Semântico (A Estrutura Base)
 A marcação foi construída utilizando os elementos mais modernos e semânticos do HTML5 para garantir acessibilidade e clareza estrutural:
 
