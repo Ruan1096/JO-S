@@ -51,15 +51,8 @@ Efeitos Dinâmicos no Menu: Utilização de seletores de eventos (mouseenter, mo
 
 Flash e Brilho no Botão de Conversão (ORDER NOW): O botão principal reage à aproximação do cursor gerando sombras de caixa difusas (box-shadow) que simulam um halo de luz branca. Nos eventos de clique (mousedown/mouseup), o script dispara um efeito visual de clarão intenso, dando destaque absoluto à principal ação comercial da página.
 
-📂 Arquitetura do Repositório
-Plaintext
-├── index.html              # Documento HTML estruturado e semântico
-├── styles.css              # Folha de estilos avançada (Layout, Flexbox e Tipografia)
-├── script.js               # Comportamentos em JavaScript e efeitos de luz interativos
-├── hamburguer-fundo...jpg  # Background imersivo em alta definição
-├── logo-jos.png            # Logotipo oficial da marca
-├── titulo-new-york.png     # Letreiro tipográfico principal customizado
-└── faixa-beneficios.png    # Rodapé institucional de qualificação
+<img width="433" height="174" alt="image" src="https://github.com/user-attachments/assets/fe71d072-071b-4151-8a78-c79e50ddd9ef" />
+
 
 
 
